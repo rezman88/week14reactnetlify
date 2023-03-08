@@ -1,4 +1,4 @@
-ame: Push and Deploy
+name: Push and Deploy
 
 # When workflow is triggered
 on:
